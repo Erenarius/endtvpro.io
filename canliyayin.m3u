@@ -1,7 +1,6 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="", TV 8
-https://tv8-tb-live.ercdn.net/tv8-geo/tv8hd_480p.m3u8?e=1660905483&st=xbeEmm15Tn1wRyodXbffNw
-
+https://tv8-tb-live.ercdn.net/tv8-geo/tv8hd_480p.m3u8
 #EXTINF:-" tvg-logo="", TV 8 (2)
-https://tv8-tb-live.ercdn.net/tv8-geo/tv8hd_480p.m3u8?e=1660905483&st=xbeEmm15Tn1wRyodXbffNw
+https://tv8-tb-live.ercdn.net/tv8-geo/tv8hd_480p.m3u8
