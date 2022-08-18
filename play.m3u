@@ -1,10 +1,7 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/YZG9MRS/turktv.png" group-title="11",itasli.github.io/TURKTV
-https://i.ibb.co/YZG9MRS/turktv.png
+#EXTINF:-1 tvg-logo="https://imgbb.com/][img]https://i.ibb.co/WGKxDNT/ENDTV.png" group-title="11",END TV PRO 
+https://imgbb.com/][img]https://i.ibb.co/WGKxDNT/ENDTV.png
 
 #EXTINF:-1 tvg-id="SONIC 1 TR" tvg-logo="https://i.ibb.co/58mGHNW/unnamed.png" group-title="22", SONIC 1
-https://rovideo.xyz/379/tt3794354.1080p.tr.m3u8
-
-#EXTINF:-1 tvg-id="SONIC 2 TR" tvg-logo="https://i.ibb.co/58mGHNW/unnamed.png" group-title="22", SONIC 2 
 https://rovideo.xyz/379/tt3794354.1080p.tr.m3u8
