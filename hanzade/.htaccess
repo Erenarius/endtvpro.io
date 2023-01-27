@@ -1,0 +1,4 @@
+Options -Indexes
+RewriteEngine On
+
+RewriteRule ^kategori/([0-9a-zA-Z-_]+)? kategori.php?k_link=$1 [L,QSA]
