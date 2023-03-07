@@ -2,7 +2,6 @@
 #EXT-X-TARGETDURATION:10
 #EXT-X-ALLOW-CACHE:YES
 #EXT-X-PLAYLIST-TYPE:VOD
-#EXT-X-KEY:METHOD=AES-128,URI="http://crazystream.cf/pal/Get/?v=https://n.osm2nz.buzz/hls2/01/00008/ji0idybqr834_n/encryption.key%t=62gZbXDHW3vcLg-y1G19uKfPiSfbZNIbqVIsn2qYUGE@s=1678196867@e=43200@f=41287@srv=ss2@pp=wroclaw@i=0.0@sp=0"
 #EXT-X-VERSION:3
 #EXT-X-MEDIA-SEQUENCE:1
 #EXTINF:10.000,
